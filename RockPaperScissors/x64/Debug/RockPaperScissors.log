@@ -1,0 +1,3 @@
+﻿  RockPaperScissors.cpp
+C:\Users\YOUSEEF\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors.cpp(70): warning C4715: 'ChoiceName': not all control paths return a value
+  RockPaperScissors.vcxproj -> C:\Users\YOUSEEF\Desktop\RockPaperScissors\x64\Debug\RockPaperScissors.exe
